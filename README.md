@@ -1,4 +1,4 @@
-# testExtension
+# Ram Suspender For Chrome by EnderRobber101
 Please credit if you are using this for code/inspiration.
 WARNING This is a beta version with bad UI
 
