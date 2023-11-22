@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+    color: white;
+    display: flex;
+    border: 5px solid gray;
+    border-radius: 2px;
+}
+h3 { 
+    text-align: center;
+    background: black;
+}
+img {
+    background: none;
+    
+    width: 20px;
+}
+button {
+    background-color: gray;
+    border-radius: 10px;
+}
+#tabsContainer {
+    display: flex;
+    justify-content: space-evenly;
+    justify-content: center;
+    margin: 10px;
+}
+#taskTable {
+    background-color: black;
+    border: 2px solid whitesmoke;
+    color:whitesmoke;
+}
+.row {
+    align-self: center;
+    background-color: rgb(73, 122, 124);
+}
+.taskName {
+    text-align: center;
+}
+.ramUsage {
+    text-align: center;
+}
+
+
+
+
