@@ -2,7 +2,7 @@
 Please credit if you are using this for code/inspiration.
 WARNING This is a beta version with bad UI
 
-This extension allows the user to suspend tabs so they don't take up any ram. DO NOT use on tabs with unfinished/unsaved work. You can manualy snooze tabs! Ram usage stats feature comming soon! 
+This extension allows the user to suspend tabs so they don't take up any ram. You can manualy snooze tabs! Shows a list of tabs to snooze. DO NOT use on tabs with unfinished/unsaved work. Ram usage stats feature comming soon! 
 
 Works in Chrome,Opera,Edge, and other chrome based browsers!
 
@@ -20,3 +20,8 @@ TODO:
 Add a setting menu
 Auto tab discard
 Total Discard
+
+
+Inspiration from:
+https://github.com/rNeomy/auto-tab-discard
+https://github.com/solarnz/auto-tab-reaper/blob/master/background.js
