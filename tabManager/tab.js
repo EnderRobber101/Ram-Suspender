@@ -79,7 +79,7 @@ document.addEventListener("DOMContentLoaded", function ()
                             // Your script logic here
                             console.log("Snooze Button clicked!");
                             chrome.tabs.discard(tab.id);
-                            document.getElementById("snoozeButton" + i).style.backgroundColor = green;
+                            document.getElementById("snoozeButton" + i).style.backgroundColor = 'green';
                         });
                         
                         closeButtonWindow.append(closeButton);
