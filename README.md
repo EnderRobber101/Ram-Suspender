@@ -16,6 +16,9 @@ Install:
 All set!
 Click the extension then task manager to see the tabs
 
+Note:
+The extension might throw errors (Have the word error in the extension menu) but it does not affect the performance.
+
 TODO: 
 Add a setting menu
 Auto tab discard
