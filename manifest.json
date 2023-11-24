@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "EnderRobber101's Preferences",
-  "description": "My custom extension for beta testing",
-  "version": "0.1",
+  "name": "Ram Suspender",
+  "description": "My custom extension for beta testing. Author: EnderRobber101",
+  "version": "0.2",
   "action": {
     "default_popup": "popup/popup.html",
     "default_icon": {
