@@ -11,14 +11,25 @@
         -->
         
         <!-- CSS -->
-        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="setting.css">
     </head>
     <body>
-        <script src="setting.js"></script>
         <h3> Setting Page </h3>
         
         
+        <div id="setDiscardRate">
+            <label for="interval">Tab Discard Check Interval (minutes):</label>
+            <input type="number" id="interval" min="1" value="1">
+            <button id="save">Save</button>
+            <script src="settings.js"></script>
+        </div>
         
+        <h3>Auto Tab Discard</h3>
+        <label class="switch">
+            <input type="checkbox" id="discardCheckbox">
+            <span class="slider round"></span>
+        </label>          
         
+        <script src="setting.js"></script>
     </body>
 </html>

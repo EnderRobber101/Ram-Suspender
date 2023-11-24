@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Ram Suspender",
   "description": "My custom extension for beta testing. Author: EnderRobber101",
-  "version": "0.2",
+  "version": "1.0",
   "action": {
     "default_popup": "popup/popup.html",
     "default_icon": {
@@ -13,6 +13,11 @@
   },
   "permissions": [
     "storage",
-    "tabs"
-  ]
+    "tabs",
+    "alarms"
+  ],
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  }
 }

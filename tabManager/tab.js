@@ -136,6 +136,7 @@ document.addEventListener("DOMContentLoaded", function ()
     }
     
     
+    //! Refreshing content changes order of list each time
     function refreshContent() 
     {
         chrome.tabs.query({}, function(tabs) {
